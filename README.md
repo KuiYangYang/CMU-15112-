@@ -1,9 +1,6 @@
 # CMU-15112-
-Project's name: Builder
-Builder is a design interface for architecture. 
-Users can create a room and configure the position for furniture, windows and doors. 
-The user experience allows all objects except the room to be moved, rotated and deleted. 
-When completing 2D design, users can transfer to isometric view and navigate the space by rotating the view.
+This is my term project in CMU Fundamentals of Programming and Computer Science, which is a technical introduction to Pyhon programming language. My project, builder, is a design interface for architecture. First, users should design a 2D plan, they should create a room and set up the scale. And then the room will generate in the board, user also can move, rotate and delete the room. Second, users can put objects(desk , chair, door, etc) inside the room, and the objects can also be moved, rotated and deleted. In the end, the 2D design drawing can transfer to isometric view, users can navigate their design in the 2.5D space.
+
 
 How to run the project:
 The project has four files including 'main','roomAndObject','isometric' and 'cmu_112_graphics'.
